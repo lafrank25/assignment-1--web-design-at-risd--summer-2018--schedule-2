@@ -3,3 +3,7 @@
 !img/
 !.gitignore
 !README.md
+!*.jpg
+!*.svg
+!*.gif
+!*.png
